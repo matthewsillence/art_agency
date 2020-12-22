@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T15:45:34.115Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="crmOa8bf6c4Ns6tSXc_l" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T15:47:36.285Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dpPz8pRX1fCYYbWFIGY5" version="14.1.1" type="github">
   <diagram id="dvHxiIB0Y7OkVScomW_D" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,7 +296,7 @@
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-148" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1414.38" y="265.63" width="20" height="151.25" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-149" value="Index&lt;sup&gt;5&lt;/sup&gt;-A (authenticated document)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-149" value="Index&lt;sup&gt;6&lt;/sup&gt;-A (authenticated document)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1320" y="370" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-150" value="Prototype-P (Walter Suffield)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -314,19 +314,19 @@
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-155" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1300" y="361.25" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-157" value="Index&lt;sup&gt;5&lt;/sup&gt;-P (document)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-157" value="Index&lt;sup&gt;6&lt;/sup&gt;-P (document)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1350" y="440" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-158" value="Index&lt;sup&gt;4&lt;/sup&gt;-A (seal of dignity impression)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-158" value="Index&lt;sup&gt;5&lt;/sup&gt;-A (seal of dignity impression)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="451.25" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-159" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1174.9999999999998" y="538.12" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-160" value="Index&lt;sup&gt;3&lt;/sup&gt;-P (motif - bishop)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-160" value="Index&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/span&gt;-P (motif - bishop)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1224.9999999999998" y="625.62" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-161" value="Index&lt;sup&gt;2&lt;/sup&gt;-A (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-161" value="Index&lt;sup&gt;3&lt;/sup&gt;-A (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1084.9999999999998" y="625.62" width="56.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-162" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -350,7 +350,7 @@
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-167" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1340" y="770" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-168" value="Index-P (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-168" value="Index&lt;sup&gt;2&lt;/sup&gt;-P (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1401.25" y="853.5899999999999" width="88.75" height="20.16" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-169" value="Index&lt;sup&gt;1&lt;/sup&gt;-A (motif - praying bishop)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -362,7 +362,7 @@
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-172" value="Prototype&lt;sup&gt;2&lt;/sup&gt;-A (Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="998.75" y="696.87" width="78.75" height="23.13" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-173" value="Index&lt;sup&gt;2&lt;/sup&gt;-P (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-173" value="Index&lt;sup&gt;3&lt;/sup&gt;-P (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1149.9999999999998" y="696.87" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-174" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -389,9 +389,10 @@
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-179" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1261.25" y="834.2199999999999" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ZC2ZCOioa6piEP0aAPeQ-180">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1520" y="408" as="targetPoint" />
+            <mxPoint x="1196" y="950" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="1196" y="990" />
               <mxPoint x="1520" y="990" />
@@ -404,10 +405,10 @@
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-181" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1244.06" y="451.25" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-182" value="Index&lt;sup&gt;3&lt;/sup&gt;-A (subsidiary seal impression)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-182" value="Index&lt;sup&gt;4&lt;/sup&gt;-A (subsidiary seal impression)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1170.93" y="538.12" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-183" value="Index&lt;sup&gt;4&lt;/sup&gt;-P (seal of dignity impression)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-183" value="Index&lt;sup&gt;5&lt;/sup&gt;-P (seal of dignity impression)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1302.81" y="538.12" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-184" value="Index&lt;sup&gt;1&lt;/sup&gt;-P (subsidiary seal impression)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -430,7 +431,7 @@
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-187" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1398.75" y="696.87" width="22.82" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-188" value="Index-A (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-188" value="Index&lt;sup&gt;2&lt;/sup&gt;-A (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1313.12" y="783.5899999999999" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-189" value="invokes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
