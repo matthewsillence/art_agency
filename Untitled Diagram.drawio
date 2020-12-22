@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T15:35:20.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="2APPrwwhngV0w5BQ9E6Z" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T15:45:34.115Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="crmOa8bf6c4Ns6tSXc_l" version="14.1.1" type="github">
   <diagram id="dvHxiIB0Y7OkVScomW_D" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -302,7 +302,7 @@
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-150" value="Prototype-P (Walter Suffield)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="370" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-153" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-153" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1390" y="380.25" as="sourcePoint" />
             <mxPoint x="1480" y="380.25" as="targetPoint" />
@@ -329,10 +329,10 @@
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-161" value="Index&lt;sup&gt;2&lt;/sup&gt;-A (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1084.9999999999998" y="625.62" width="56.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-162" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-162" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1280" y="449.5" as="sourcePoint" />
-            <mxPoint x="1330" y="449.5" as="targetPoint" />
+            <mxPoint x="1285" y="449.5" as="sourcePoint" />
+            <mxPoint x="1335" y="449.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-163" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -348,19 +348,19 @@
           <mxGeometry x="1164.9999999999998" y="633.74" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-167" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1186.2499999999998" y="680.6200000000001" width="20" height="120" as="geometry" />
+          <mxGeometry x="1340" y="770" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-168" value="Prototype-P (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1222.4999999999998" y="755.62" width="93.13" height="23.44" as="geometry" />
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-168" value="Index-P (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1401.25" y="853.5899999999999" width="88.75" height="20.16" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-169" value="Index&lt;sup&gt;1&lt;/sup&gt;-A (motif - praying bishop)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1101.2499999999998" y="766.87" width="60" height="20" as="geometry" />
+          <mxGeometry x="1229.37" y="850.31" width="101.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-171" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="1101.2499999999998" y="613.74" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-172" value="Prototype&lt;sup&gt;2&lt;/sup&gt;-A (Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="998.75" y="696.87" width="78.75" height="20" as="geometry" />
+          <mxGeometry x="998.75" y="696.87" width="78.75" height="23.13" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-173" value="Index&lt;sup&gt;2&lt;/sup&gt;-P (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1149.9999999999998" y="696.87" width="90" height="20" as="geometry" />
@@ -378,19 +378,28 @@
           <mxGeometry x="1091.2499999999998" y="705.62" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-176" value="prays to" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1164.9999999999998" y="772.5" width="51.25" height="20" as="geometry" />
+          <mxGeometry x="1331.87" y="865.4699999999999" width="51.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-177" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1166.2499999999998" y="762" as="sourcePoint" />
-            <mxPoint x="1212.4999999999998" y="761.62" as="targetPoint" />
+            <mxPoint x="1333.12" y="854.9699999999999" as="sourcePoint" />
+            <mxPoint x="1379.37" y="854.5899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-179" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1121.2499999999998" y="765.62" width="20" height="120" as="geometry" />
+          <mxGeometry x="1261.25" y="834.2199999999999" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ZC2ZCOioa6piEP0aAPeQ-180">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1520" y="408" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1196" y="990" />
+              <mxPoint x="1520" y="990" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-180" value="Prototype&lt;sup&gt;1&lt;/sup&gt;-A (Walter Suffield)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="850" width="91.25" height="20" as="geometry" />
+          <mxGeometry x="1150" y="918.5999999999999" width="91.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-181" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1244.06" y="451.25" width="20" height="120" as="geometry" />
@@ -402,16 +411,39 @@
           <mxGeometry x="1302.81" y="538.12" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-184" value="Index&lt;sup&gt;1&lt;/sup&gt;-P (subsidiary seal impression)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1170.93" y="850" width="99.07" height="20" as="geometry" />
+          <mxGeometry x="1310.9300000000003" y="918.5999999999999" width="99.07" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-185" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1118.75" y="869" as="sourcePoint" />
-            <mxPoint x="1158.75" y="869" as="targetPoint" />
+            <mxPoint x="1258.75" y="937.5999999999999" as="sourcePoint" />
+            <mxPoint x="1298.75" y="937.5999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZC2ZCOioa6piEP0aAPeQ-186" value="creates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1116.25" y="885.62" width="40" height="20" as="geometry" />
+          <mxGeometry x="1256.25" y="954.2199999999999" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ZC2ZCOioa6piEP0aAPeQ-187">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-187" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1398.75" y="696.87" width="22.82" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-188" value="Index-A (motif - Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1313.12" y="783.5899999999999" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-189" value="invokes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="789.9999999999999" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-190" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1383.12" y="782.5899999999999" as="sourcePoint" />
+            <mxPoint x="1433.12" y="782.5899999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZC2ZCOioa6piEP0aAPeQ-191" value="Prototype-P (Christ)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="779.9999999999999" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
