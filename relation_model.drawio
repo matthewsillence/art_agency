@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T10:18:00.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="DsUsdalj6i_Q0AOF4phS" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T10:21:59.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="y_SMH1WeWxcp4qiLPM3U" version="14.1.1" type="github">
   <diagram id="RirL9xDK0O-Fh4c-Zz6y" name="Page-1">
     <mxGraphModel dx="886" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,45 @@
         </mxCell>
         <mxCell id="Hl6RZGfbvZ5KfRVpeVmt-38" value="reflects" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="721.5" y="425" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl6RZGfbvZ5KfRVpeVmt-39" value="Recipient-P (bishop)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="792" y="460" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl6RZGfbvZ5KfRVpeVmt-41" value="Recipient-P (bishop)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="795" y="510" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl6RZGfbvZ5KfRVpeVmt-42" value="Recipient-P (bishop)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="795" y="610" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl6RZGfbvZ5KfRVpeVmt-43" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="829.5" y="600" as="sourcePoint" />
+            <mxPoint x="829.5" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hl6RZGfbvZ5KfRVpeVmt-45" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="686.5" y="425" as="sourcePoint" />
+            <mxPoint x="780" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hl6RZGfbvZ5KfRVpeVmt-46" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="686.5" y="425" as="sourcePoint" />
+            <mxPoint x="780" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hl6RZGfbvZ5KfRVpeVmt-47" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="686.5" y="425" as="sourcePoint" />
+            <mxPoint x="780" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hl6RZGfbvZ5KfRVpeVmt-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="890" y="410" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Hl6RZGfbvZ5KfRVpeVmt-49" value="Collegium ecclesiasticum" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="930" y="510" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
